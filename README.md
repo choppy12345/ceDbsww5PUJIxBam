@@ -1,7 +1,6 @@
 # Customer Behavior Analysis Notebook
 
-This repository contains a **Jupyter Notebook (`customer.ipynb`)** that performs an analysis related to customer data. The notebook explores customer-related information, including data processing and insights. :contentReference[oaicite:1]{index=1}
-
+This repository contains a **Jupyter Notebook (`customer.ipynb`)** that performs an analysis related to customer data. The notebook explores customer-related information, including data processing and insights.
 ## 📌 Project Overview
 
 This project aims to:
