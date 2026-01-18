@@ -1,4 +1,4 @@
-# Customer Behavior Analysis Notebook
+# Happy Customer
 
 This repository contains a **Jupyter Notebook (`customer.ipynb`)** that performs an analysis related to customer data. The notebook explores customer-related information, including data processing and insights.
 ## 📌 Project Overview
